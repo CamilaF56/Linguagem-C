@@ -1,0 +1,1 @@
+A soma dos primeiros 3 números é de 12
